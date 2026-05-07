@@ -152,7 +152,7 @@ This project simulates how an insurance company can leverage data analytics to i
 ## 💼 About Me
 
 **Karan Agarwal**
-Aspiring Data Analyst
+ Data Analyst
 
 🔹 Skills: SQL | Power BI | Python
 🔹 Focus: Data Analytics & Business Intelligence
